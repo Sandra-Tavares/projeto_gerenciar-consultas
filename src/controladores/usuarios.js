@@ -22,6 +22,8 @@ try{
 
 };
 
+
+
 module.exports = {
     cadastrarUsuario
 };
