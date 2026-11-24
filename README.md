@@ -1,3 +1,21 @@
+# Gerenciamento de consultas de fisioterapia
+
+## Objetivo
+
+Auxiliar profissionais de fisioterapia na organização de consultas e na comunicação com pacientes.
+
+## Escopo previsto
+
+- Agendamento e registro de consultas.
+- Confirmações e pesquisa de satisfação por e-mail ou WhatsApp.
+- Emissão e envio de relatórios de atendimento e recibos.
+
+## Estrutura e status
+
+O repositório contém um diretório `src/`. As funcionalidades acima são objetivos descritos no README original; sua implementação e execução não foram verificadas.
+
+## Material original
+
 # projeto_gerenciar-consultas
 
 Este projeto visa auxiliar o profissional fisioterapeuta a:
